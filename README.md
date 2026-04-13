@@ -11,7 +11,7 @@ Email Me 👉 ✉️ **mahima.kumari0223@gmail.com**
 - 🔭 **Current Focus:** Identifying trends and generating actionable insights to support data-driven decision-making.
 - 🌱 **Core Expertise:** Data cleaning, transformation, and visualization.
 - 💬 **Ask me about:** SQL Optimization, Power BI (DAX), and Star Schema modeling.
-- 👨‍💻 **Portfolio:** [Portfolio](https://mahimakumari.netlify.app/)
+  <!--👨‍💻 **Portfolio:** [Portfolio](https://mahimakumari.netlify.app/) -->
 - 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/mahimakumari)
 - 📄 **Know about my experiences:** [Resume](https://mahimakumari.netlify.app/file/Mahima_Kumari_Resume.pdf)
 
