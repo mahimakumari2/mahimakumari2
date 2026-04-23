@@ -13,7 +13,6 @@ Email Me 👉 ✉️ **mahima.kumari0223@gmail.com**
 - 💬 **Ask me about:** SQL Optimization, Power BI (DAX), and Star Schema modeling.
   <!--👨‍💻 **Portfolio:** [Portfolio](https://mahimakumari.netlify.app/) -->
 - 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/mahimakumari)
-- 📄 **Know about my experiences:** [Resume](file:///C:/Users/hp/Downloads/Mahima_Kumari_Resume.pdf)
 
 ---
 ## 🌐 Socials:
